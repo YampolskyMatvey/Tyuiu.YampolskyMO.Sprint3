@@ -18,7 +18,7 @@ namespace Tyuiu.YampolskyMO.Sprint3.Task7.V2.Test
             int len = (stopValue - startValue) + 1;
             double[] wait = new double[len];
 
-            // Заполняем ожидаемый массив точно по тем же правилам
+            
             int count = 0;
             for (int x = startValue; x <= stopValue; x++)
             {
